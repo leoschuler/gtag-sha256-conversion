@@ -15,5 +15,5 @@
 homepage: "https://github.com/leoschuler/gtag-sha256-conversion"
 documentation: "https://github.com/leoschuler/gtag-sha256-conversion"
 versions:
-  - sha: d6772654bc506ebb0971a61b2d9af023aefea8b4
+  - sha: 8f5b99e2db8e21cb0ad8b92da068751f911b9acd
     changeNotes: Initial Version
